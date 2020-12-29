@@ -22,7 +22,7 @@ The off-chain calculation based on zkSNARK only needs to be executed once. The s
 
 TesraPunKu-Planning
 =====================================
-#### Threshold cryptography, distributed key generation and verifiable random function
+#### Threshold cryptography, distributed key generation and verifiable random function(VRF)
 Exploring other signature schemes besides threshold-BLS signatures requires features such as verifiability, uniqueness/determinism, non-interactive threshold signature version, and small signature size.<br/>
 Research other more advanced DKG algorithms except Feldman and Pedersen verifiable secret sharing scheme.<br/>
 Research on emerging research and applications of verifiable random functions in the blockchain field, explore more applications of VRF in Byzantine fault-tolerant consensus algorithms and non-interactive zero-knowledge systems.<br/>
