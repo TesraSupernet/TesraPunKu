@@ -3,6 +3,8 @@
 What is TesraPunKu?
 =====================================
 TesraPunKu Perform user-defined computing-intensive tasks off-chain, provide unlimited computing power for the existing blockchain, and bring a decentralized token economy to the traditional computing market.<br/>
+The TesraPunKu network bypasses the blockchain Gas restrictions and expensive on-chain computing costs, and connects complicated third-party computing capabilities with business computing-intensive tasks (such as machine learning model training, 3D rendering, DNA sequencing, and other scientific computing).<br/>
+The computing network based on zkSNARK will also support providing privacy for private input computing tasks. In addition, regarding the current scalability of the blockchain, it will bring unlimited scalability to the supported chains.<br/>
 See [https://www.overec.com/prove](https://www.overec.com/prove) for more information
 
 TesraPunKu-Innovation
