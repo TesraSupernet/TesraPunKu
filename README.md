@@ -26,3 +26,6 @@ TesraPunKu-Planning
 Exploring other signature schemes besides threshold-BLS signatures requires features such as verifiability, uniqueness/determinism, non-interactive threshold signature version, and small signature size.<br/>
 Research other more advanced DKG algorithms except Feldman and Pedersen verifiable secret sharing scheme.<br/>
 Research on emerging research and applications of verifiable random functions in the blockchain field, explore more applications of VRF in Byzantine fault-tolerant consensus algorithms and non-interactive zero-knowledge systems.<br/>
+#### Verifiable off-chain computing with stronger scalability
+Explore and study zk-SNARK related topics, especially the implementation of general front-end compilers from high-level languages to first-order constraint systems, underlying libraries and proof systems, such as libsnark.<br/>
+Evaluate and pay attention to other advanced verifiable computing technologies, which are still in the theoretical stage, rather than the production environment stage, such as fully homomorphic encryption, program obfuscation, and the latest scalable, post-quantum secure zk-STARK technology.<br/>
