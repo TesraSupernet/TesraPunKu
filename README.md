@@ -3,7 +3,7 @@
 What is TesraPunKu?
 =====================================
 TesraPunKu Perform user-defined computing-intensive tasks off-chain, provide unlimited computing power for the existing blockchain, and bring a decentralized token economy to the traditional computing market.<br/>
-See [tesra.io](https://www.overec.com/prove) for more information
+See [https://www.overec.com/prove](https://www.overec.com/prove) for more information
 
 TesraPunKu-Innovation
 =====================================
