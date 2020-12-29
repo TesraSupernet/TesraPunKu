@@ -1,4 +1,4 @@
-![Image text](https://github.com/TesraSupernet/TesraPunKu/blob/main/logo.png)
+![Image text](https://github.com/TesraSupernet/TesraPunKu/blob/main/logo.jpg)
 
 What is TesraPunKu?
 =====================================
