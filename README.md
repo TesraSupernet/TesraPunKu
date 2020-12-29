@@ -1,2 +1,2 @@
-# TesraPow
-TesraPow provides verifiable computing power for expanding blockchain usability
+# TesraPunKu
+TesraPunKu provides verifiable computing power for expanding blockchain usability
