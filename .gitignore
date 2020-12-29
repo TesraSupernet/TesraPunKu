@@ -1,0 +1,6 @@
+# dependencies
+testAccounts/
+credential/
+vault/
+.idea
+*.*.swp

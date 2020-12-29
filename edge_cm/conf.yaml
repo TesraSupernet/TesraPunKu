@@ -1,0 +1,42 @@
+log:
+  log_level: debug
+  log_path:
+  log_max_age: 7
+  log_max_backups: 30
+  log_max_size: 128
+  log_compress:
+pulsar:
+  url:
+  connection_timeout:
+  operation_timeout:
+  token:
+interval:
+  push_hardware_interval: 30
+  store_cwa_interval: 5
+  push_running_job_interval: 30
+  stop_container_timeout: 10
+  restart_container_timeout: 10
+  resend_message_interval: 5
+image:
+  max_images: 5
+  auto_remove_interval: 30
+  max_deal_timeout: 3600
+container:
+  check_live: 60
+  auto_rm: true
+db:
+  path:
+interface:
+  url:
+server:
+  addr: :
+  mac_addr:
+
+p2p_client:
+  enabled: false
+  default_version: 1.0.1
+
+minio:
+  endpoint:
+
+

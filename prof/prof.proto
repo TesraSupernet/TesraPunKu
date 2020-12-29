@@ -1,0 +1,8 @@
+syntax = "proto3";
+package prof;
+
+message ProfMsg {
+    bytes requestID = 1;
+    bytes content = 2;
+    bytes groupID = 3;
+}
