@@ -18,3 +18,9 @@ For each computing request, a group of computing nodes is randomly selected, and
 
 Construct a verifiable computing network based on zero-knowledge proof (zkSNARK), which executes off-chain, verifies off-chain, and improves verification efficiency based on threshold keys.<br/>
 The off-chain calculation based on zkSNARK only needs to be executed once. The solver and verifier are non-interactive. The proof is concise, meaning it is small and has nothing to do with the complexity of the calculation. The verification process can quickly verify the validity of the calculation results. It only depends on the size of the input and is not affected by the complexity of the calculation process.<br/>
+TesraPunKu-Planning
+=====================================
+#### Threshold cryptography, distributed key generation and verifiable random function
+Exploring other signature schemes besides threshold-BLS signatures requires features such as verifiability, uniqueness/determinism, non-interactive threshold signature version, and small signature size.<br/>
+Research other more advanced DKG algorithms except Feldman and Pedersen verifiable secret sharing scheme.<br/>
+Research on emerging research and applications of verifiable random functions in the blockchain field, explore more applications of VRF in Byzantine fault-tolerant consensus algorithms and non-interactive zero-knowledge systems.<br/>
